@@ -9,6 +9,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fckyeslol&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fckyeslol&show_icons=true&theme=github_dark&v=1)
