@@ -2,15 +2,13 @@
 
 ---
 
-- Backend + ML (PyTorch)  
-- Data-driven systems and performance  
-- Neural networks (end-to-end)  
-- Web platforms for enterprises and NGOs  
-- Godot game (side project)  
-- Learning KiCad  
+- Backend developer (also built multiple websites for NGOs)  
+- Interested in electronics and hardware systems  
+- International Olympiad medalist in astronomy and astrophysics  
+- Currently learning KiCad  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fckyeslol&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fckyeslol&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
